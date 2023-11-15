@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -39,5 +39,5 @@ Emacs                    1 hr 10 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/11/2023 07:13:48 UTC
+ Last Updated on 15/11/2023 08:17:44 UTC
 <!--END_SECTION:waka-->
