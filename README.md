@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -39,5 +39,5 @@ VS Code                  1 hr 56 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 25/11/2023 15:13:04 UTC
+ Last Updated on 25/11/2023 16:16:03 UTC
 <!--END_SECTION:waka-->
