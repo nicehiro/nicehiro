@@ -26,14 +26,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        ████████████████████░░░░░   81.60 % 
-Emacs Lisp               20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Edge                     1 hr 30 mins        ████████████████████░░░░░   81.60 % 
-Emacs                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/02/2024 16:16:38 UTC
+ Last Updated on 15/02/2024 17:13:43 UTC
 <!--END_SECTION:waka-->
