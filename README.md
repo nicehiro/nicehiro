@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/05/2024 16:18:00 UTC
+ Last Updated on 18/05/2024 17:12:54 UTC
 <!--END_SECTION:waka-->
