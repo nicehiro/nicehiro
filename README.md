@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 18 mins        ████████████████████████░   96.23 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 18 mins        ████████████████████████░   96.42 % 
+Safari                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 
- Last Updated on 14/03/2025 23:17:51 UTC
+ Last Updated on 16/03/2025 04:20:36 UTC
 <!--END_SECTION:waka-->
