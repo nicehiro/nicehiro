@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,5 +41,5 @@ Zotero                   1 hr 49 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/04/2025 01:26:40 UTC
+ Last Updated on 20/04/2025 03:07:42 UTC
 <!--END_SECTION:waka-->
