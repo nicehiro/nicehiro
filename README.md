@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -41,5 +41,5 @@ Figma                    1 hr 21 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/05/2025 23:18:12 UTC
+ Last Updated on 16/05/2025 01:25:19 UTC
 <!--END_SECTION:waka-->
