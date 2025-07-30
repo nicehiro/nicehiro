@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -41,5 +39,5 @@ AdobeIllustrator2025     14 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/07/2025 15:22:31 UTC
+ Last Updated on 30/07/2025 16:26:17 UTC
 <!--END_SECTION:waka-->
