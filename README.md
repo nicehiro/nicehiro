@@ -16,28 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Other                    5 hrs 35 mins       ██████████████████░░░░░░░   71.15 % 
-Org                      2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-TeX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-Chrome                   5 hrs 42 mins       ██████████████████░░░░░░░   72.62 % 
-ChatGPT                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Ghostty                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Emacs                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Zotero                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-```
-
-
- Last Updated on 25/10/2025 16:21:19 UTC
+ Last Updated on 25/10/2025 17:15:24 UTC
 <!--END_SECTION:waka-->
