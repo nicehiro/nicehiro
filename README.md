@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C951%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.06%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    30 hrs 55 mins      ████████████████████░░░░░   78.86 % 
-Org                      5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-TeX                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    29 hrs 10 mins      ████████████████████░░░░░   79.40 % 
+Org                      4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TeX                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Dia                      24 hrs 34 mins      ████████████████░░░░░░░░░   62.66 % 
-Zed                      6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Zotero                   3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Emacs                    3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Preview                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Dia                      22 hrs 50 mins      ████████████████░░░░░░░░░   62.17 % 
+Zed                      6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Zotero                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Emacs                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Preview                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 
- Last Updated on 15/03/2026 16:36:17 UTC
+ Last Updated on 15/03/2026 17:30:48 UTC
 <!--END_SECTION:waka-->
