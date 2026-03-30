@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    53 hrs 15 mins      █████████████████████░░░░   83.55 % 
-Markdown                 9 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Org                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Nix                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Terminfo                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    49 hrs 37 mins      ███████████████████░░░░░░   74.24 % 
+Markdown                 16 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Org                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Nix                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Terminfo                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Dia                      29 hrs 51 mins      ████████████░░░░░░░░░░░░░   46.84 % 
-Ghostty                  18 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Emacs                    9 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Zed                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Zotero                   1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Dia                      26 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   39.99 % 
+Ghostty                  19 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Emacs                    10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Zed                      8 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Zotero                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
- Last Updated on 30/03/2026 16:59:27 UTC
+ Last Updated on 30/03/2026 17:58:44 UTC
 <!--END_SECTION:waka-->
