@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C061%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C063%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    44 hrs 48 mins      ██████████████████░░░░░░░   73.68 % 
-Markdown                 15 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Terminfo                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    37 hrs 59 mins      ██████████████████░░░░░░░   72.46 % 
+Markdown                 14 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Ghostty                  22 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
-Dia                      20 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   34.52 % 
-Zed                      9 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Emacs                    7 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Preview                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Ghostty                  19 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   38.00 % 
+Dia                      16 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   31.27 % 
+Zed                      8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Emacs                    6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Preview                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 
- Last Updated on 02/04/2026 17:11:09 UTC
+ Last Updated on 02/04/2026 19:00:25 UTC
 <!--END_SECTION:waka-->
