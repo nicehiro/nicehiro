@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    16 hrs 2 mins       █████████████████████░░░░   84.50 % 
-Markdown                 2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Io                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    13 hrs 59 mins      ███████████████████████░░   93.03 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Io                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Dia                      8 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
-Ghostty                  6 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
-Zed                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Emacs                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Zotero                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Dia                      7 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.49 % 
+Ghostty                  5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
+Emacs                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Zotero                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Zed                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 
 
- Last Updated on 07/04/2026 17:02:35 UTC
+ Last Updated on 07/04/2026 18:04:24 UTC
 <!--END_SECTION:waka-->
