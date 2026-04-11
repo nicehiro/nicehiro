@@ -20,6 +20,26 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.19%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 11/04/2026 17:35:14 UTC
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Other                    26 hrs 25 mins      ██████████████████████░░░   87.27 % 
+Image (svg)              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+TeX                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Org                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔥 Editors: 
+Ghostty                  12 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.25 % 
+Dia                      11 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
+Emacs                    3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Zotero                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Figma                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+```
+
+
+ Last Updated on 11/04/2026 18:47:59 UTC
 <!--END_SECTION:waka-->
