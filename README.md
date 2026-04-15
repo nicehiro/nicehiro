@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    34 hrs 45 mins      ██████████████████████░░░   86.37 % 
-TeX                      2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Image (svg)              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Emacs Lisp               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    32 hrs 2 mins       █████████████████████░░░░   85.87 % 
+TeX                      2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Image (svg)              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Emacs Lisp               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Dia                      14 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.49 % 
-Ghostty                  14 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   35.60 % 
-Emacs                    6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Zotero                   2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Figma                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Dia                      14 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   38.36 % 
+Ghostty                  12 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Emacs                    6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Zotero                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Figma                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 
- Last Updated on 15/04/2026 17:09:40 UTC
+ Last Updated on 15/04/2026 19:23:03 UTC
 <!--END_SECTION:waka-->
