@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C129%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C134%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    28 hrs 39 mins      ██████████████████████░░░   87.64 % 
-TeX                      3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Emacs Lisp               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Nix                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Other                    27 hrs 40 mins      ██████████████████████░░░   89.51 % 
+TeX                      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Emacs Lisp               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Nix                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Dia                      15 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.17 % 
-Emacs                    8 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Ghostty                  6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Zotero                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Preview                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Dia                      15 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.72 % 
+Emacs                    7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Ghostty                  5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Zotero                   1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Preview                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
- Last Updated on 18/04/2026 16:45:53 UTC
+ Last Updated on 18/04/2026 17:41:41 UTC
 <!--END_SECTION:waka-->
