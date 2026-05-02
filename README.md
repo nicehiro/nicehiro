@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    34 hrs 17 mins      █████████████████████████   98.15 % 
-Swift                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-TeX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    30 hrs 3 mins       ████████████████████████░   97.99 % 
+Swift                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Dia                      16 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.17 % 
-Ghostty                  9 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Emacs                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Codex                    1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Preview                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Dia                      15 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.41 % 
+Ghostty                  8 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Emacs                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Codex                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Preview                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 
 
- Last Updated on 02/05/2026 16:50:56 UTC
+ Last Updated on 02/05/2026 17:48:43 UTC
 <!--END_SECTION:waka-->
