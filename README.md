@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs%2052%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.60%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -39,5 +41,5 @@ Dia                      4 hrs 55 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 28/05/2026 18:44:58 UTC
+ Last Updated on 28/05/2026 21:17:24 UTC
 <!--END_SECTION:waka-->
