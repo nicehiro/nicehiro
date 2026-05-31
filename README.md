@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    18 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   40.10 % 
-TeX                      14 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   32.18 % 
-Image (svg)              4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Other                    16 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   39.27 % 
+TeX                      13 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.07 % 
+Image (svg)              3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Emacs                    14 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Ghostty                  12 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Preview                  7 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Figma                    6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Unknown Editor           2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Emacs                    13 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Ghostty                  12 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Preview                  6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Figma                    5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Unknown Editor           2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 
 
- Last Updated on 31/05/2026 16:15:39 UTC
+ Last Updated on 31/05/2026 18:09:23 UTC
 <!--END_SECTION:waka-->
