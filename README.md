@@ -16,10 +16,30 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C382%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C389%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.62%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/06/2026 17:56:08 UTC
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Other                    12 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.90 % 
+TeX                      4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Swift                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Image (svg)              1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+
+🔥 Editors: 
+Ghostty                  15 hrs 50 mins      ████████████░░░░░░░░░░░░░   48.69 % 
+Emacs                    8 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Preview                  2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Zotero                   2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Figma                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+```
+
+
+ Last Updated on 04/06/2026 20:13:13 UTC
 <!--END_SECTION:waka-->
