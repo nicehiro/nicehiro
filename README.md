@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C445%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TeX                      17 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.40 % 
-Other                    14 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Swift                    11 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Markdown                 6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-TypeScript               2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TeX                      16 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Other                    15 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Swift                    9 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+TypeScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Ghostty                  20 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.61 % 
-VS Code                  16 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Emacs                    8 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Preview                  4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Dia                      3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+VS Code                  17 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Ghostty                  16 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Emacs                    7 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Dia                      5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Preview                  4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 ```
 
 
- Last Updated on 12/06/2026 17:46:49 UTC
+ Last Updated on 12/06/2026 20:19:25 UTC
 <!--END_SECTION:waka-->
