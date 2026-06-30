@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C529%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C534%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    18 hrs 30 mins      ██████████████░░░░░░░░░░░   55.30 % 
-TeX                      6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Markdown                 1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Org                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Image (png)              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Other                    18 hrs 43 mins      ██████████████░░░░░░░░░░░   55.43 % 
+TeX                      6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Org                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-Dia                      18 hrs 15 mins      ██████████████░░░░░░░░░░░   54.56 % 
-Emacs                    5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Preview                  4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Ghostty                  1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Zotero                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Dia                      19 hrs 10 mins      ██████████████░░░░░░░░░░░   56.80 % 
+Emacs                    4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Preview                  4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Ghostty                  3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Figma                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 
- Last Updated on 30/06/2026 18:05:13 UTC
+ Last Updated on 30/06/2026 20:06:52 UTC
 <!--END_SECTION:waka-->
