@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C641%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C644%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.79%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    21 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
-TeX                      5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Text                     4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown                 4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Python                   4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Other                    20 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.32 % 
+TeX                      5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Text                     4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Python                   3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-Ghostty                  23 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.26 % 
-Chrome                   18 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.09 % 
-Emacs                    2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Preview                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-ChatGPT                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Ghostty                  21 hrs 43 mins      ████████████░░░░░░░░░░░░░   47.49 % 
+Chrome                   18 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   40.06 % 
+Emacs                    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Preview                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+ChatGPT                  52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 
- Last Updated on 18/07/2026 17:13:38 UTC
+ Last Updated on 18/07/2026 18:11:46 UTC
 <!--END_SECTION:waka-->
