@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -28,45 +28,45 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TeX                      13 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.74 % 
-Other                    11 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Image (png)              3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Python                   2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Fork                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    14 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   32.69 % 
+TeX                      12 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+Image (png)              5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Python                   3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Fork                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.49 % 
-Ghostty                  8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-ChatGPT                  6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Preview                  4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-VS Code                  4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Chrome                   16 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   38.99 % 
+Ghostty                  9 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+ChatGPT                  5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Preview                  5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+VS Code                  3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 27 mins (59.59%)
+⏱ AI Coding Time: 27 hrs 4 mins (62.37%)
 
-✍️ 5,667 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,302 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 260,199,349 Input Tokens, 2,042,602 Output Tokens
+🔤 381,898,102 Input Tokens, 2,270,563 Output Tokens
 
-💵 $1152.13 Estimated AI Cost This Week
+💵 $1306.58 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 365 AI Prompts
+🧠 52 AI Sessions, 644 AI Prompts
 
-Fable                    3,077 lines         █████████████░░░░░░░░░░░░   52.65 % 
-GPT                      2,537 lines         ███████████░░░░░░░░░░░░░░   43.41 % 
-Opus                     226 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Vscode-Wakatime          4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Fable                    3,189 lines         ██████████████████░░░░░░░   71.04 % 
+GPT                      1,070 lines         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Opus                     226 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Vscode-Wakatime          4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,726 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 3,465 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 16:23:35 UTC
+ Last Updated on 01/08/2026 18:15:32 UTC
 <!--END_SECTION:waka-->
