@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2031%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.83%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -63,5 +67,5 @@ Vscode-Wakatime          418 lines           █░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/08/2026 00:15:02 UTC
+ Last Updated on 07/08/2026 02:58:17 UTC
 <!--END_SECTION:waka-->
