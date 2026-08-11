@@ -28,44 +28,43 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    24 hrs 55 mins      █████████████░░░░░░░░░░░░   51.75 % 
-TeX                      9 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Fork                     5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Image (png)              4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JavaScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other                    23 hrs 55 mins      █████████████░░░░░░░░░░░░   51.30 % 
+TeX                      12 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Fork                     5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Image (png)              2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   39.89 % 
-Ghostty                  17 hrs              █████████░░░░░░░░░░░░░░░░   35.31 % 
-Emacs                    4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Preview                  3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-ChatGPT                  2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Chrome                   18 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.37 % 
+Ghostty                  17 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.80 % 
+Emacs                    5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Preview                  4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+ChatGPT                  47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 56 mins (41.4%)
+⏱ AI Coding Time: 17 hrs 21 mins (37.21%)
 
-✍️ 4,995 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 898 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 197,131,421 Input Tokens, 1,183,889 Output Tokens
+🔤 96,134,162 Input Tokens, 931,884 Output Tokens
 
-💵 $908.37 Estimated AI Cost This Week
+💵 $451.98 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 262 AI Prompts
+🧠 21 AI Sessions, 243 AI Prompts
 
-GPT                      3,422 lines         █████████████████░░░░░░░░   68.19 % 
-Fable                    1,208 lines         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Vscode-Wakatime          388 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Fable                    473 lines           █████████████░░░░░░░░░░░░   51.64 % 
+GPT                      443 lines           ████████████░░░░░░░░░░░░░   48.36 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 814 characters per prompt
+📝 Concise Prompter — average 428 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 16:18:51 UTC
+ Last Updated on 11/08/2026 17:29:36 UTC
 <!--END_SECTION:waka-->
