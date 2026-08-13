@@ -28,44 +28,43 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    24 hrs 10 mins      █████████████░░░░░░░░░░░░   50.59 % 
-TeX                      13 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Fork                     3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Image (png)              2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-JavaScript               2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Other                    20 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.85 % 
+TeX                      11 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+JavaScript               3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Fork                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Image (png)              2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   40.32 % 
-Ghostty                  15 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Preview                  5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Emacs                    4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Codex Vscode             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Chrome                   17 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.81 % 
+Ghostty                  10 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Preview                  4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Emacs                    4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+ChatGPT                  2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 59 mins (39.73%)
+⏱ AI Coding Time: 16 hrs 59 mins (39.73%)
 
-✍️ 2,060 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,032 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 83,719,423 Input Tokens, 1,068,580 Output Tokens
+🔤 53,110,469 Input Tokens, 996,084 Output Tokens
 
-💵 $546.09 Estimated AI Cost This Week
+💵 $394.25 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 273 AI Prompts
+🧠 21 AI Sessions, 210 AI Prompts
 
-GPT                      1,823 lines         ██████████████████████░░░   87.94 % 
-Codex-Vscode             222 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Fable                    28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+GPT                      1,818 lines         ██████████████████████░░░   89.12 % 
+Codex-Vscode             222 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,765 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 3,566 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 16:16:28 UTC
+ Last Updated on 13/08/2026 17:16:58 UTC
 <!--END_SECTION:waka-->
