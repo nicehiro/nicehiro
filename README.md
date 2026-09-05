@@ -28,24 +28,24 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    15 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.29 % 
-Fork                     6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-TeX                      5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Image (svg)              3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Python                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other                    14 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
+Fork                     6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+TeX                      5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Image (svg)              3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Python                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   35.77 % 
-Claude Code              7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-ChatGPT                  4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Emacs                    3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Ghostty                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Chrome                   11 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.11 % 
+Claude Code              7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+ChatGPT                  4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Emacs                    3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Ghostty                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 25 mins (27.17%)
+⏱ AI Coding Time: 9 hrs 25 mins (28.05%)
 
 ✍️ 3,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -68,5 +68,5 @@ Fable                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/09/2026 15:03:35 UTC
+ Last Updated on 05/09/2026 17:35:20 UTC
 <!--END_SECTION:waka-->
