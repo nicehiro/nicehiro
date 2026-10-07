@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C305%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-481%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-487%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -28,45 +28,46 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    19 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.52 % 
-TeX                      7 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Image (svg)              6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Markdown                 3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Image (png)              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other                    22 hrs 26 mins      █████████████░░░░░░░░░░░░   52.72 % 
+Image (svg)              8 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+TeX                      7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Markdown                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Image (png)              1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Claude Code              6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-WezTerm                  5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-ChatGPT                  4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Codex Vscode             3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Chrome                   10 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+ChatGPT                  6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Claude Code              6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Codex Vscode             5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Figma                    4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 6 mins (49.63%)
+⏱ AI Coding Time: 22 hrs 10 mins (52.11%)
 
-✍️ 3,113 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 231 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,767,966 Input Tokens, 1,070,026 Output Tokens
+🔤 10,597,124 Input Tokens, 923,907 Output Tokens
 
-💵 $216.33 Estimated AI Cost This Week
+💵 $279.27 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 483 AI Prompts
+🧠 42 AI Sessions, 638 AI Prompts
 
-Opus                     3,098 lines         ████████████████████████░   94.05 % 
-Fable                    142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-GPT                      54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Fable                    142 lines           ██████████████░░░░░░░░░░░   56.57 % 
+Opus                     55 lines            █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+GPT                      54 lines            █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,028 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 5,888 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 17:48:23 UTC
+ Last Updated on 07/10/2026 23:14:23 UTC
 <!--END_SECTION:waka-->
