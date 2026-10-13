@@ -28,32 +28,32 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    14 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.58 % 
-TeX                      6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Image (svg)              6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Python                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    10 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.72 % 
+Image (svg)              5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+TeX                      4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-ChatGPT                  5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Codex Vscode             4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Figma                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-WezTerm                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Chrome                   6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+ChatGPT                  4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Codex Vscode             3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+WezTerm                  2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Figma                    2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 12 mins (54.44%)
+⏱ AI Coding Time: 14 hrs 23 mins (62.85%)
 
 ✍️ 178 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,301,960 Input Tokens, 568,401 Output Tokens
+🔤 5,445,147 Input Tokens, 461,695 Output Tokens
 
-💵 $217.61 Estimated AI Cost This Week
+💵 $183.63 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 474 AI Prompts
+🧠 25 AI Sessions, 442 AI Prompts
 
 Opus                     170 lines           ███████████████████████░░   92.39 % 
 GPT                      14 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
@@ -62,11 +62,11 @@ Fable                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,099 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 4,939 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 16:09:47 UTC
+ Last Updated on 13/10/2026 21:36:17 UTC
 <!--END_SECTION:waka-->
