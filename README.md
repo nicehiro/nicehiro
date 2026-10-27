@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-548%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-549%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -28,44 +28,44 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    21 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.52 % 
-Image (svg)              5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Swift                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Fork                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-TeX                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Other                    18 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.10 % 
+Image (svg)              5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Fork                     4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Sponsor                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TeX                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   30.28 % 
-WezTerm                  8 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-ChatGPT                  7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Figma                    5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Codex Vscode             5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Chrome                   13 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   34.07 % 
+ChatGPT                  7 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Figma                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+WezTerm                  5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Codex Vscode             5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 38 mins (68.14%)
+⏱ AI Coding Time: 24 hrs 47 mins (64.82%)
 
-✍️ 3,029 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,829 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,521,057 Input Tokens, 1,179,574 Output Tokens
+🔤 12,927,934 Input Tokens, 791,185 Output Tokens
 
-💵 $431.36 Estimated AI Cost This Week
+💵 $376.61 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 957 AI Prompts
+🧠 84 AI Sessions, 850 AI Prompts
 
-Opus                     1,476 lines         ████████████░░░░░░░░░░░░░   48.31 % 
-GPT                      1,217 lines         ██████████░░░░░░░░░░░░░░░   39.84 % 
-Codex-Vscode             362 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+GPT                      1,153 lines         ████████████████░░░░░░░░░   62.32 % 
+Codex-Vscode             362 lines           █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Opus                     335 lines           █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,533 characters per prompt
+📚 Verbose Prompter — average 7,208 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 14:42:20 UTC
+ Last Updated on 27/10/2026 19:59:10 UTC
 <!--END_SECTION:waka-->
