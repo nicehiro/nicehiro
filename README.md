@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C369%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-553%20hrs%2027%20mins-blue?style=flat)
 
@@ -28,44 +28,44 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    11 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.72 % 
-Fork                     10 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   35.43 % 
-TeX                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Sponsor                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Fork                     9 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
+Other                    9 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Sponsor                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+TeX                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 19 mins      ███████████░░░░░░░░░░░░░░   43.42 % 
-ChatGPT                  4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Codex Vscode             3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-WezTerm                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Preview                  2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Chrome                   12 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.56 % 
+ChatGPT                  4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Codex Vscode             3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Preview                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+WezTerm                  1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 42 mins (51.19%)
+⏱ AI Coding Time: 12 hrs 37 mins (47.38%)
 
-✍️ 2,083 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,556 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,499,615 Input Tokens, 585,588 Output Tokens
+🔤 6,647,920 Input Tokens, 532,170 Output Tokens
 
-💵 $319.74 Estimated AI Cost This Week
+💵 $286.52 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 393 AI Prompts
+🧠 44 AI Sessions, 331 AI Prompts
 
-GPT                      1,741 lines         ████████████████████░░░░░   81.74 % 
-Codex-Vscode             389 lines           █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+GPT                      1,214 lines         ███████████████████░░░░░░   75.73 % 
+Codex-Vscode             389 lines           ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,940 characters per prompt
+📚 Verbose Prompter — average 8,722 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/10/2026 18:47:32 UTC
+ Last Updated on 31/10/2026 22:50:22 UTC
 <!--END_SECTION:waka-->
